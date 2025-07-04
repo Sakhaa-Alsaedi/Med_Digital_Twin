@@ -152,12 +152,9 @@ This repository is made available under the Creative Commons Attribution 4.0 Int
 ## Contact
 
 For questions or collaborations related to this research:
-- **Corresponding Author**: [Contact information would be added here]
+- **Corresponding Author**: [sakhaa.alsaedi@kaust.edu.sa]
 - **Institution**: King Abdullah University of Science and Technology (KAUST)
 
-## Acknowledgments
-
-We thank the FEBS Open Bio editorial team and reviewers for their valuable feedback on the original manuscript.
 
 ---
 
